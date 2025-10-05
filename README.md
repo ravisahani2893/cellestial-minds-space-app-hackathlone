@@ -35,7 +35,7 @@ The code in this repository uses (but may not be limited to) the following Pytho
 - `tqdm`
 - `pandas`
 - `streamlit` (UI)
-- `transformers` (training / T5 models, tokenizers)
+- `transformers` (training allen-ai/led-large, tokenizers)
 - `datasets` (Hugging Face datasets utilities)
 - `torch` (PyTorch)
 - `scikit-learn` (`sklearn`, for train/test splits etc.)
