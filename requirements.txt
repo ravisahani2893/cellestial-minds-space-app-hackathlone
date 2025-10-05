@@ -1,0 +1,12 @@
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+tqdm
+streamlit
+transformers
+datasets
+torch
+scikit-learn
+evaluate
+flask
