@@ -1,0 +1,1557 @@
+ [
+      {
+        "subject": "Microgravity",
+        "relation": "is",
+        "object": "a condition characterized by minimal and almost imperceptible gravitational forces"
+      },
+      {
+        "subject": "Microgravity",
+        "relation": "occurs primarily in",
+        "object": "space"
+      },
+      {
+        "subject": "Microgravity",
+        "relation": "occurs in",
+        "object": "specialized environments designed to simulate this state"
+      },
+      {
+        "subject": "Microgravity",
+        "relation": "presents",
+        "object": "a unique opportunity to study how cells respond to the drastic reduction in gravity"
+      },
+      {
+        "subject": "Gravity",
+        "relation": "regulates",
+        "object": "numerous cellular processes on Earth"
+      },
+      {
+        "subject": "Mechanical forces",
+        "relation": "influence",
+        "object": "cell structure"
+      },
+      {
+        "subject": "Mechanical forces",
+        "relation": "influence",
+        "object": "cell function"
+      },
+      {
+        "subject": "Mechanical forces",
+        "relation": "undergo",
+        "object": "significant alterations under microgravity conditions"
+      },
+      {
+        "subject": "Significant alterations",
+        "relation": "impact",
+        "object": "cytoskeletal organization"
+      },
+      {
+        "subject": "Significant alterations",
+        "relation": "impact",
+        "object": "cell adhesion"
+      },
+      {
+        "subject": "Significant alterations",
+        "relation": "impact",
+        "object": "intracellular signaling"
+      },
+      {
+        "subject": "These changes",
+        "relation": "affect",
+        "object": "critical cellular processes"
+      },
+      {
+        "subject": "Critical cellular processes",
+        "relation": "include",
+        "object": "proliferation"
+      },
+      {
+        "subject": "Critical cellular processes",
+        "relation": "include",
+        "object": "differentiation"
+      },
+      {
+        "subject": "Critical cellular processes",
+        "relation": "include",
+        "object": "communication"
+      },
+      {
+        "subject": "Critical cellular processes",
+        "relation": "include",
+        "object": "survival"
+      },
+      {
+        "subject": "Research on microgravity",
+        "relation": "has been conducted aboard",
+        "object": "space stations, such as the International Space Station"
+      },
+      {
+        "subject": "Research on microgravity",
+        "relation": "has been conducted on",
+        "object": "suborbital platforms"
+      },
+      {
+        "subject": "Terrestrial laboratories",
+        "relation": "have adopted",
+        "object": "advanced technologies, such as rotating bioreactors, to simulate microgravity conditions"
+      },
+      {
+        "subject": "These investigations",
+        "relation": "have gained",
+        "object": "importance due to their dual applications"
+      },
+      {
+        "subject": "Dual applications",
+        "relation": "include",
+        "object": "safeguarding astronaut health"
+      },
+      {
+        "subject": "Dual applications",
+        "relation": "include",
+        "object": "addressing terrestrial diseases"
+      },
+      {
+        "subject": "This review",
+        "relation": "aims to explore",
+        "object": "recent advances in understanding the effects of microgravity on biological processes"
+      },
+      {
+        "subject": "This review",
+        "relation": "emphasizes",
+        "object": "its implications and applications for human health"
+      },
+       {
+        "subject": "Population",
+        "relation": "includes",
+        "object": "Stem cells"
+      },
+      {
+        "subject": "Population",
+        "relation": "includes",
+        "object": "T cells"
+      },
+      {
+        "subject": "Population",
+        "relation": "includes",
+        "object": "endothelial cells"
+      },
+      {
+        "subject": "Population",
+        "relation": "includes",
+        "object": "cancer cells"
+      },
+      {
+        "subject": "Population",
+        "relation": "includes",
+        "object": "kidney cells"
+      },
+      {
+        "subject": "Population",
+        "relation": "includes",
+        "object": "bone cells"
+      },
+      {
+        "subject": "Intervention",
+        "relation": "is",
+        "object": "Microgravity"
+      },
+      {
+        "subject": "Intervention",
+        "relation": "is",
+        "object": "simulated microgravity"
+      },
+      {
+        "subject": "Intervention",
+        "relation": "is",
+        "object": "microgravity conditions"
+      },
+      {
+        "subject": "Comparison",
+        "relation": "is",
+        "object": "Cells under normal or standard gravity conditions"
+      },
+      {
+        "subject": "Outcomes",
+        "relation": "include",
+        "object": "Effects on cell proliferation"
+      },
+      {
+        "subject": "Outcomes",
+        "relation": "include",
+        "object": "tissue regeneration"
+      },
+      {
+        "subject": "Outcomes",
+        "relation": "include",
+        "object": "cellular metabolism"
+      },
+      {
+        "subject": "Outcomes",
+        "relation": "include",
+        "object": "organ homeostasis"
+      },
+      {
+        "subject": "Outcomes",
+        "relation": "include",
+        "object": "immune health"
+      },
+      {
+        "subject": "Timing",
+        "relation": "is",
+        "object": "Publications with no start date restriction"
+      },
+      {
+        "subject": "Publications",
+        "relation": "are available up to",
+        "object": "November 2024"
+      },
+      {
+        "subject": "A comprehensive literature review",
+        "relation": "was conducted using",
+        "object": "PubMed"
+      },
+      {
+        "subject": "A comprehensive literature review",
+        "relation": "was conducted using",
+        "object": "Scopus"
+      },
+      {
+        "subject": "A comprehensive literature review",
+        "relation": "was conducted using",
+        "object": "Embase databases"
+      },
+      {
+        "subject": "Search terms",
+        "relation": "were structured following",
+        "object": "the PICOT framework"
+      },
+      {
+        "subject": "The research question",
+        "relation": "was",
+        "object": "“How does microgravity (including simulated conditions) affect stem cells, T cells, endothelial cells, kidney cells, and other biological cells compared to cells under normal gravity conditions, specifically in terms of cell proliferation, tissue regeneration, cellular metabolism, organ homeostasis, and immune health?”"
+      },
+      {
+        "subject": "Microgravity (including simulated conditions)",
+        "relation": "affect",
+        "object": "stem cells"
+      },
+      {
+        "subject": "Microgravity (including simulated conditions)",
+        "relation": "affect",
+        "object": "T cells"
+      },
+      {
+        "subject": "Microgravity (including simulated conditions)",
+        "relation": "affect",
+        "object": "endothelial cells"
+      },
+      {
+        "subject": "Microgravity (including simulated conditions)",
+        "relation": "affect",
+        "object": "kidney cells"
+      },
+      {
+        "subject": "Microgravity (including simulated conditions)",
+        "relation": "affect",
+        "object": "other biological cells"
+      },
+      {
+        "subject": "Microgravity (including simulated conditions)",
+        "relation": "affect",
+        "object": "cell proliferation"
+      },
+      {
+        "subject": "Microgravity (including simulated conditions)",
+        "relation": "affect",
+        "object": "tissue regeneration"
+      },
+      {
+        "subject": "Microgravity (including simulated conditions)",
+        "relation": "affect",
+        "object": "cellular metabolism"
+      },
+      {
+        "subject": "Microgravity (including simulated conditions)",
+        "relation": "affect",
+        "object": "organ homeostasis"
+      },
+      {
+        "subject": "Microgravity (including simulated conditions)",
+        "relation": "affect",
+        "object": "immune health"
+      },
+      {
+        "subject": "Relevant Medical Subject Headings (MeSH) terms",
+        "relation": "were included",
+        "object": "to ensure a comprehensive search"
+      },
+      {
+        "subject": "Key terms",
+        "relation": "covered",
+        "object": "the study populations (e.g., stem cells, T cells, endothelial cells, cancer cells, kidney cells, bone cells)"
+      },
+      {
+        "subject": "Key terms",
+        "relation": "covered",
+        "object": "conditions (e.g., microgravity, simulated microgravity, standard gravity)"
+      },
+      {
+        "subject": "Key terms",
+        "relation": "covered",
+        "object": "outcomes of interest (e.g., cell proliferation, tissue regeneration, cellular metabolism, organ homeostasis, immune health)"
+      },
+      {
+        "subject": "The literature search",
+        "relation": "was performed in",
+        "object": "December 2024"
+      },
+      {
+        "subject": "The literature search",
+        "relation": "included publications in",
+        "object": "English"
+      },
+      {
+        "subject": "The literature search",
+        "relation": "included publications in",
+        "object": "Spanish"
+      },
+      {
+        "subject": "Eligible studies",
+        "relation": "encompassed",
+        "object": "observational studies"
+      },
+      {
+        "subject": "Eligible studies",
+        "relation": "encompassed",
+        "object": "in vitro research"
+      },
+      {
+        "subject": "Eligible studies",
+        "relation": "encompassed",
+        "object": "experimental investigations that addressed the effects of microgravity on critical biological processes"
+      },
+      {
+        "subject": "The retrieved results",
+        "relation": "were systematically categorized based on",
+        "object": "their focus"
+      },
+      {
+        "subject": "Categorization",
+        "relation": "enabled",
+        "object": "a detailed analysis of microgravity’s impact on different biological functions"
+      },
+      {
+        "subject": "The findings",
+        "relation": "were contrasted with",
+        "object": "observations from cells maintained under standard gravity conditions"
+      },
+      {
+        "subject": "Contrasting findings",
+        "relation": "provided",
+        "object": "a comprehensive comparison of cellular adaptations in these environments"
+      },
+      {
+          "subject": "Microgravity",
+          "relation": "significantly impacts",
+          "object": "the immune system"
+        },
+        {
+          "subject": "Microgravity",
+          "relation": "compromises",
+          "object": "the development, function, and response of immune cells"
+        },
+        {
+          "subject": "Compromised immune cells",
+          "relation": "weakens",
+          "object": "the body’s defenses in space environments"
+        },
+        {
+          "subject": "Hematopoietic stem cells",
+          "relation": "show impaired differentiation into",
+          "object": "macrophages"
+        },
+        {
+          "subject": "Hematopoietic stem cells",
+          "relation": "are essential for",
+          "object": "generating immune cells"
+        },
+        {
+          "subject": "Macrophages",
+          "relation": "are critical for",
+          "object": "infection control"
+        },
+        {
+          "subject": "An imbalance between M1 and M2 macrophages",
+          "relation": "disrupts",
+          "object": "the immune system’s ability to handle infections"
+        },
+        {
+          "subject": "An imbalance between M1 and M2 macrophages",
+          "relation": "disrupts",
+          "object": "the immune system’s ability to repair tissues"
+        },
+        {
+          "subject": "M1 macrophages",
+          "relation": "are",
+          "object": "pro-inflammatory"
+        },
+        {
+          "subject": "M2 macrophages",
+          "relation": "are",
+          "object": "anti-inflammatory and repair"
+        },
+        {
+          "subject": "Dendritic cells",
+          "relation": "are also adversely affected by",
+          "object": "microgravity"
+        },
+        {
+          "subject": "Dendritic cells",
+          "relation": "are pivotal in",
+          "object": "T lymphocyte activation via antigen presentation"
+        },
+        {
+          "subject": "Key molecules such as the major histocompatibility complex (MHC), CD80 and CD86",
+          "relation": "show",
+          "object": "reduced expression"
+        },
+        {
+          "subject": "Reduced expression",
+          "relation": "diminishes",
+          "object": "dendritic cell functionality"
+        },
+        {
+          "subject": "Brief exposures to microgravity",
+          "relation": "transiently enhance",
+          "object": "dendritic cell activity"
+        },
+        {
+          "subject": "This effect",
+          "relation": "is not sustained",
+          "object": "over the long term"
+        },
+        {
+          "subject": "Neutrophils",
+          "relation": "exhibit",
+          "object": "increased numbers in microgravity"
+        },
+        {
+          "subject": "Neutrophils",
+          "relation": "exhibit",
+          "object": "reduced functionality in microgravity"
+        },
+        {
+          "subject": "Reduced functionality",
+          "relation": "impairs",
+          "object": "their ability to destroy microorganisms effectively"
+        },
+        {
+          "subject": "B lymphocytes",
+          "relation": "demonstrate",
+          "object": "decreased proliferation under microgravity"
+        },
+        {
+          "subject": "B lymphocytes",
+          "relation": "demonstrate",
+          "object": "increased apoptosis under microgravity"
+        },
+        {
+          "subject": "B lymphocytes",
+          "relation": "are responsible for",
+          "object": "humoral immunity"
+        },
+        {
+          "subject": "Natural killer (NK) cells",
+          "relation": "experience",
+          "object": "reduced cytotoxic activity under microgravity"
+        },
+        {
+          "subject": "Natural killer (NK) cells",
+          "relation": "are critical for",
+          "object": "innate immunity"
+        },
+        {
+          "subject": "Reduced cytotoxic activity",
+          "relation": "limits",
+          "object": "their ability to eliminate tumors or infected cells"
+        },
+         {
+          "subject": "Microgravity",
+          "relation": "profoundly affects",
+          "object": "T cell-mediated immunity"
+        },
+        {
+          "subject": "Microgravity",
+          "relation": "disrupts",
+          "object": "activation of T cells"
+        },
+        {
+          "subject": "Microgravity",
+          "relation": "disrupts",
+          "object": "proliferation of T cells"
+        },
+        {
+          "subject": "Microgravity",
+          "relation": "disrupts",
+          "object": "apoptosis of T cells"
+        },
+        {
+          "subject": "Studies using concanavalin A",
+          "relation": "revealed",
+          "object": "significant inhibition of activation and proliferation in CD4+ and CD8+ T cells"
+        },
+        {
+          "subject": "Concanavalin A",
+          "relation": "is",
+          "object": "a standard activator of resting T cells"
+        },
+        {
+          "subject": "The effects of microgravity on T cells",
+          "relation": "intensify",
+          "object": "over longer exposure durations"
+        },
+        {
+          "subject": "Reduced expression of activation markers such as CD25, CD69, and CD71",
+          "relation": "underscores",
+          "object": "this dysfunction"
+        },
+        {
+          "subject": "CD4+ T cells",
+          "relation": "show",
+          "object": "a greater reduction in proliferation and cytokine production compared to CD8+ T cells"
+        },
+        {
+          "subject": "CD4+ T cells",
+          "relation": "are critical for",
+          "object": "regulating immune responses through cytokines like IL-2 and IFN-Î³"
+        },
+        {
+          "subject": "Brief exposure (8 h) to microgravity",
+          "relation": "notably suppresses",
+          "object": "CD4+ cell functions"
+        },
+        {
+          "subject": "CD8+ cells",
+          "relation": "require",
+          "object": "longer exposure (16 h) to exhibit similar impairments"
+        },
+        {
+          "subject": "Cytokine production",
+          "relation": "is notably compromised",
+          "object": "under microgravity"
+        },
+        {
+          "subject": "CD4+ cells",
+          "relation": "exhibit",
+          "object": "decreased secretion of IL-2 and IFN-Î³ under microgravity"
+        },
+        {
+          "subject": "IL-2",
+          "relation": "is essential for",
+          "object": "T cell expansion"
+        },
+        {
+          "subject": "IFN-Î³",
+          "relation": "is crucial for",
+          "object": "macrophage activation and antiviral defense"
+        },
+        {
+          "subject": "These deficiencies",
+          "relation": "indicate",
+          "object": "a reduced capacity of T cells to coordinate and amplify immune responses"
+        },
+        {
+          "subject": "Apoptosis of T cells",
+          "relation": "is accelerated",
+          "object": "under microgravity"
+        },
+        {
+          "subject": "Apoptosis of T cells",
+          "relation": "shows",
+          "object": "an earlier onset of late apoptotic processes"
+        },
+        {
+          "subject": "Pre-exposed cells",
+          "relation": "show",
+          "object": "an increase in late-stage apoptosis and a reduction in early-stage apoptosis"
+        },
+        {
+          "subject": "These changes",
+          "relation": "indicate",
+          "object": "a faster progression through apoptotic pathways compared to controls under normal gravity"
+        },
+        {
+          "subject": "This effect",
+          "relation": "is linked to",
+          "object": "increased expression of the Fas receptor in CD8+ cells"
+        },
+        {
+          "subject": "Fas receptor",
+          "relation": "is a critical component of",
+          "object": "the Fas/FasL pathway"
+        },
+        {
+          "subject": "Fas/FasL pathway",
+          "relation": "regulates",
+          "object": "apoptosis through external signals"
+        },
+        {
+          "subject": "Microgravity",
+          "relation": "disrupts",
+          "object": "critical signaling pathways, including RAS, ERK, and NF-ÎºB"
+        },
+        {
+          "subject": "The RAS pathway",
+          "relation": "shows",
+          "object": "reduced activity under microgravity"
+        },
+        {
+          "subject": "The RAS pathway",
+          "relation": "governs",
+          "object": "cell proliferation and survival"
+        },
+        {
+          "subject": "Reduced activity of RAS pathway",
+          "relation": "leads to",
+          "object": "impaired cell growth"
+        },
+        {
+          "subject": "ERK",
+          "relation": "undergoes",
+          "object": "alterations under microgravity that hinder activation and specialization of macrophages and lymphocytes"
+        },
+        {
+          "subject": "ERK",
+          "relation": "is essential for",
+          "object": "cell differentiation and responses to external stimuli"
+        },
+        {
+          "subject": "NF-ÎºB",
+          "relation": "exhibits",
+          "object": "inconsistent activation in microgravity"
+        },
+        {
+          "subject": "NF-ÎºB",
+          "relation": "is",
+          "object": "a key regulator of inflammatory responses"
+        },
+        {
+          "subject": "Inconsistent activation of NF-ÎºB",
+          "relation": "results in",
+          "object": "inadequate immune responses"
+        },
+        {
+          "subject": "Research on microgravity",
+          "relation": "has revealed",
+          "object": "significant effects on cancer biology"
+        },
+        {
+          "subject": "Effects on cancer biology",
+          "relation": "include",
+          "object": "the formation of multicellular spheroids (MCS)"
+        },
+        {
+          "subject": "Effects on cancer biology",
+          "relation": "include",
+          "object": "the reorganization of the cytoskeleton"
+        },
+        {
+          "subject": "Effects on cancer biology",
+          "relation": "include",
+          "object": "the regulation of key proteins such as p53, NF-ÎºB, and BAX"
+        },
+        {
+          "subject": "p53",
+          "relation": "is",
+          "object": "a tumor suppressor"
+        },
+        {
+          "subject": "NF-ÎºB",
+          "relation": "is",
+          "object": "a regulator of immune responses and inflammation"
+        },
+        {
+          "subject": "BAX",
+          "relation": "is",
+          "object": "a pro-apoptotic protein involved in programmed cell death"
+        },
+        {
+          "subject": "These processes",
+          "relation": "promote",
+          "object": "apoptosis in various cancer cell types"
+        },
+        {
+          "subject": "Microgravity-induced changes in breast cancer cell lines (MCF-7)",
+          "relation": "include",
+          "object": "decreased cell adhesion"
+        },
+        {
+          "subject": "Microgravity-induced changes in breast cancer cell lines (MCF-7)",
+          "relation": "include",
+          "object": "altered gene expression"
+        },
+        {
+          "subject": "Microgravity-induced changes in thyroid cancer cell lines (FTC-133)",
+          "relation": "include",
+          "object": "decreased cell adhesion"
+        },
+        {
+          "subject": "Microgravity-induced changes in thyroid cancer cell lines (FTC-133)",
+          "relation": "include",
+          "object": "altered gene expression"
+        },
+        {
+          "subject": "Microgravity-induced changes in lung cancer cell lines (A549)",
+          "relation": "include",
+          "object": "decreased cell adhesion"
+        },
+        {
+          "subject": "Microgravity-induced changes in lung cancer cell lines (A549)",
+          "relation": "include",
+          "object": "altered gene expression"
+        },
+        {
+          "subject": "Altered gene expression",
+          "relation": "occurs particularly in",
+          "object": "molecules like E-cadherin, VEGF, and vimentin"
+        },
+        {
+          "subject": "E-cadherin",
+          "relation": "is important for",
+          "object": "cell adhesion and tumor invasion suppression"
+        },
+        {
+          "subject": "VEGF",
+          "relation": "promotes",
+          "object": "angiogenesis"
+        },
+        {
+          "subject": "Vimentin",
+          "relation": "is associated with",
+          "object": "epithelial–mesenchymal transition and cell migration"
+        },
+        {
+          "subject": "These changes",
+          "relation": "affect",
+          "object": "tumor proliferation and dissemination"
+        },
+        {
+          "subject": "The study of cancer stem cells (CSCs) under simulated microgravity conditions",
+          "relation": "provides",
+          "object": "critical insights into their behavior in extreme environments"
+        },
+        {
+          "subject": "These insights",
+          "relation": "have",
+          "object": "profound implications for oncology"
+        },
+        {
+          "subject": "These insights",
+          "relation": "have",
+          "object": "profound implications for regenerative medicine"
+        },
+        {
+          "subject": "CSCs",
+          "relation": "are characterized by",
+          "object": "their self-renewal and differentiation capabilities"
+        },
+        {
+          "subject": "CSCs",
+          "relation": "contribute to",
+          "object": "tumor heterogeneity"
+        },
+        {
+          "subject": "CSCs",
+          "relation": "contribute to",
+          "object": "treatment resistance"
+        },
+        {
+          "subject": "CSCs",
+          "relation": "contribute to",
+          "object": "metastasis"
+        },
+        {
+          "subject": "CSCs",
+          "relation": "are identified using",
+          "object": "specific markers in breast cancer, lung cancer, and gastrointestinal cancer"
+        },
+        {
+          "subject": "Specific markers",
+          "relation": "enable",
+          "object": "their isolation and detailed analysis"
+        },
+        {
+          "subject": "CSCs",
+          "relation": "exhibit",
+          "object": "significant changes in morphology and growth patterns under simulated microgravity"
+        },
+        {
+          "subject": "These changes",
+          "relation": "include",
+          "object": "the formation of multicellular spheroids"
+        },
+        {
+          "subject": "These three-dimensional structures",
+          "relation": "closely mimic",
+          "object": "in vivo tumor organization"
+        },
+        {
+          "subject": "These three-dimensional structures",
+          "relation": "offer",
+          "object": "a robust model for studying the effects of microgravity on tumor biology"
+        },
+        {
+          "subject": "Exposure to microgravity",
+          "relation": "induces",
+          "object": "notable cellular changes, including increased apoptosis and decreased expression of pluripotency-related markers"
+        },
+        {
+          "subject": "These changes",
+          "relation": "suggest",
+          "object": "a shift toward differentiation"
+        },
+        {
+          "subject": "This differentiation",
+          "relation": "reduces",
+          "object": "CSC resistance"
+        },
+        {
+          "subject": "This differentiation",
+          "relation": "potentially enhances",
+          "object": "their susceptibility to treatments"
+        },
+        {
+          "subject": "Simulated microgravity",
+          "relation": "has been linked to",
+          "object": "increased expression of specific markers in gastrointestinal cancers like colon and pancreatic cancer"
+        },
+        {
+          "subject": "Increased expression of specific markers",
+          "relation": "reflects",
+          "object": "alterations in the regulatory mechanisms of cell growth and differentiation"
+        },
+        {
+          "subject": "These changes",
+          "relation": "can significantly influence",
+          "object": "tumor progression"
+        },
+        {
+          "subject": "These changes",
+          "relation": "can significantly influence",
+          "object": "the efficacy of oncological treatments"
+        },
+        {
+          "subject": "Microgravity",
+          "relation": "modulates",
+          "object": "apoptosis"
+        },
+        {
+          "subject": "Apoptosis",
+          "relation": "is",
+          "object": "a key defense against abnormal cell proliferation"
+        },
+        {
+          "subject": "Many cancer cells under microgravity",
+          "relation": "show",
+          "object": "increased apoptosis due to altered mechanical forces"
+        },
+        {
+          "subject": "Some cancer cells",
+          "relation": "acquire",
+          "object": "stem-like properties under microgravity"
+        },
+        {
+          "subject": "Stem-like properties",
+          "relation": "enhance",
+          "object": "resistance, plasticity, and therapy resistance"
+        },
+        {
+          "subject": "Microgravity",
+          "relation": "induces",
+          "object": "the formation of multicellular spheroids (MCS)"
+        },
+        {
+          "subject": "Multicellular spheroids (MCS)",
+          "relation": "mimic",
+          "object": "solid tumors"
+        },
+        {
+          "subject": "Multicellular spheroids (MCS)",
+          "relation": "exhibit",
+          "object": "increased resistance to chemotherapy and radiation"
+        },
+        {
+          "subject": "Increased resistance",
+          "relation": "suggests",
+          "object": "more aggressive cancer states"
+        },
+        {
+          "subject": "Reduced gravity",
+          "relation": "downregulates",
+          "object": "adhesion proteins (e.g., E-cadherin, vinculin, paxillin)"
+        },
+        {
+          "subject": "Downregulation of adhesion proteins",
+          "relation": "weakens",
+          "object": "cell–cell interactions"
+        },
+        {
+          "subject": "Downregulation of adhesion proteins",
+          "relation": "potentially enhances",
+          "object": "metastatic potential"
+        },
+        {
+          "subject": "The combination of microgravity and ionizing radiation",
+          "relation": "exacerbates",
+          "object": "DNA damage in tumor cells"
+        },
+        {
+          "subject": "The combination of microgravity and ionizing radiation",
+          "relation": "exacerbates",
+          "object": "genomic instability in tumor cells"
+        },
+        {
+          "subject": "The combination of microgravity and ionizing radiation",
+          "relation": "exacerbates",
+          "object": "mutations in tumor cells"
+        },
+        {
+          "subject": "This exacerbation",
+          "relation": "highlights",
+          "object": "the need for protective measures during space missions"
+        },
+        {
+          "subject": "This exacerbation",
+          "relation": "offers",
+          "object": "insights into cancer treatment"
+        },
+        {
+          "subject": "Simulated microgravity",
+          "relation": "replicates",
+          "object": "certain effects of real microgravity (r-µg)"
+        },
+        {
+          "subject": "Simulated microgravity",
+          "relation": "uses",
+          "object": "devices like the rotating wall bioreactor (RWV) and random positioning machine (RPM)"
+        },
+        {
+          "subject": "High-energy radiation with high linear energy transfer (high LET)",
+          "relation": "increases",
+          "object": "genomic instability"
+        },
+        {
+          "subject": "High-energy radiation with high linear energy transfer (high LET)",
+          "relation": "increases",
+          "object": "mutation risks"
+        },
+        {
+          "subject": "High-energy radiation with high linear energy transfer (high LET)",
+          "relation": "promotes",
+          "object": "apoptosis"
+        },
+        {
+          "subject": "High-energy radiation with high linear energy transfer (high LET)",
+          "relation": "promotes",
+          "object": "chromosomal aberrations"
+        },
+        {
+          "subject": "Microgravity",
+          "relation": "reduces",
+          "object": "the activity of focal adhesion kinase (FAK), RhoA, and Nek2 kinase in gliomas (U251 model)"
+        },
+        {
+          "subject": "Reduced activity",
+          "relation": "inhibits",
+          "object": "tumor cell migration"
+        },
+        {
+          "subject": "Immune cells such as T lymphocytes and macrophages",
+          "relation": "show",
+          "object": "decreased functionality"
+        },
+        {
+          "subject": "Decreased functionality",
+          "relation": "compromises",
+          "object": "immunosurveillance"
+        },
+        {
+          "subject": "Decreased functionality",
+          "relation": "hinders",
+          "object": "cancer detection"
+        },
+        {
+          "subject": "Microgravity",
+          "relation": "could offer",
+          "object": "therapeutic benefits by inhibiting NF-ÎºB"
+        },
+        {
+          "subject": "Microgravity",
+          "relation": "could offer",
+          "object": "therapeutic benefits by reducing cancer spread"
+        },
+        {
+          "subject": "Microgravity",
+          "relation": "could offer",
+          "object": "therapeutic benefits by decreasing VEGF activity to limit tumor growth through reduced angiogenesis"
+        },
+        {
+          "subject": "Changes in the Wnt/Î²-catenin pathway",
+          "relation": "may slow",
+          "object": "tumor growth and metastasis"
+        },
+        {
+          "subject": "CSCs",
+          "relation": "become",
+          "object": "more vulnerable under microgravity"
+        },
+        {
+          "subject": "CSCs",
+          "relation": "are typically",
+          "object": "resistant to therapies"
+        },
+        {
+          "subject": "Microgravity",
+          "relation": "alters",
+          "object": "extracellular vesicle (EV) protein and microRNA content"
+        },
+        {
+          "subject": "Alterations",
+          "relation": "open",
+          "object": "opportunities for new biomarkers and targeted therapies"
+        },
+        {
+          "subject": "The mechanosensitive channel ELKIN1",
+          "relation": "plays",
+          "object": "a crucial role in cellular responses to microgravity"
+        },
+        {
+          "subject": "Microgravity",
+          "relation": "reduces",
+          "object": "tumor cell adhesion and invasion"
+        },
+        {
+          "subject": "These effects",
+          "relation": "offer",
+          "object": "potential therapeutic benefits"
+        },
+        {
+          "subject": "These effects",
+          "relation": "are",
+          "object": "ELKIN1-dependent"
+        },
+        {
+          "subject": "Absence of ELKIN1",
+          "relation": "preserves",
+          "object": "cell structure and adhesion stability in microgravity"
+        },
+        {
+          "subject": "Absence of ELKIN1",
+          "relation": "protects",
+          "object": "healthy cells during prolonged exposure"
+        },
+        {
+          "subject": "Absence of ELKIN1",
+          "relation": "may enhance",
+          "object": "the persistence of cancer cells"
+        },
+        {
+          "subject": "Enhanced persistence of cancer cells",
+          "relation": "limits",
+          "object": "therapy effectiveness"
+        },
+        {
+          "subject": "Microgravity",
+          "relation": "reduces",
+          "object": "the nuclear localization of the transcriptional regulator YAP1"
+        },
+        {
+          "subject": "Reduced nuclear localization of YAP1",
+          "relation": "limits",
+          "object": "excessive cell proliferation and invasiveness"
+        },
+        {
+          "subject": "This effect",
+          "relation": "depends on",
+          "object": "ELKIN1 expression"
+        },
+        {
+          "subject": "Its absence (of ELKIN1)",
+          "relation": "could lead to",
+          "object": "resistance or diminished responsiveness to mechanical stimuli"
+        },
+        {
+          "subject": "ELKIN1-mediated reduction in focal adhesion proteins",
+          "relation": "may limit",
+          "object": "tumor aggressiveness"
+        },
+        {
+          "subject": "ELKIN1-mediated reduction in focal adhesion proteins",
+          "relation": "could pose",
+          "object": "a structural disadvantage for healthy tissues during extended space missions"
+        },
+        {
+          "subject": "Microgravity",
+          "relation": "provides",
+          "object": "a unique experimental environment that has greatly advanced our understanding of cancer biology, particularly thyroid cancer"
+        },
+        {
+          "subject": "Studies on thyroid cancer cells under microgravity",
+          "relation": "have yielded",
+          "object": "valuable insights into tumor behavior"
+        },
+        {
+          "subject": "These insights",
+          "relation": "are difficult to achieve",
+          "object": "under conventional laboratory conditions"
+        },
+        {
+          "subject": "Adherent thyroid cancer cells in microgravity",
+          "relation": "lose",
+          "object": "their adhesion properties"
+        },
+        {
+          "subject": "Adherent thyroid cancer cells in microgravity",
+          "relation": "organize into",
+          "object": "multicellular spheroids"
+        },
+        {
+          "subject": "These structures",
+          "relation": "closely resemble",
+          "object": "the physiological characteristics of tumors in vivo"
+        },
+        {
+          "subject": "These structures",
+          "relation": "are",
+          "object": "ideal models for studying metastasis"
+        },
+        {
+          "subject": "These structures",
+          "relation": "are",
+          "object": "ideal models for evaluating novel targeted therapies"
+        },
+        {
+          "subject": "Microgravity",
+          "relation": "affects",
+          "object": "fundamental cellular processes, including apoptosis, cytoskeletal organization, and extracellular matrix dynamics"
+        },
+        {
+          "subject": "These processes",
+          "relation": "are critical for",
+          "object": "cell growth and proliferation"
+        },
+        {
+          "subject": "Follicular thyroid cancer cells exposed to microgravity",
+          "relation": "have demonstrated",
+          "object": "a tendency to adopt a less malignant phenotype"
+        },
+        {
+          "subject": "This (tendency)",
+          "relation": "suggests that microgravity conditions may induce",
+          "object": "favorable changes"
+        },
+        {
+          "subject": "Favorable changes",
+          "relation": "potentially aid in",
+          "object": "the treatment of thyroid cancer"
+        },
+        {
+          "subject": "The findings from these studies",
+          "relation": "have the potential to revolutionize",
+          "object": "traditional oncology research approaches"
+        },
+        {
+          "subject": "They (findings)",
+          "relation": "facilitate",
+          "object": "the identification of key cellular alterations in cancer pathogenesis"
+        },
+        {
+          "subject": "They (findings)",
+          "relation": "support",
+          "object": "the development of innovative therapies aimed at improving patient outcomes"
+        },
+        {
+          "subject": "These investigations",
+          "relation": "pave the way for",
+          "object": "novel preventive strategies"
+        },
+        {
+          "subject": "These investigations",
+          "relation": "pave the way for",
+          "object": "more effective treatments based on the unique cellular properties observed under microgravity"
+        },
+        {
+          "subject": "Simulated microgravity",
+          "relation": "profoundly affects",
+          "object": "microvascular endothelial cells"
+        },
+        {
+          "subject": "Microvascular endothelial cells",
+          "relation": "play",
+          "object": "a pivotal role in vascular homeostasis by regulating inflammation, angiogenesis, and vascular permeability"
+        },
+        {
+          "subject": "Endothelial cells under normal gravity",
+          "relation": "respond to",
+          "object": "mechanical and chemical stimuli to preserve vascular function"
+        },
+        {
+          "subject": "Significant alterations",
+          "relation": "are observed",
+          "object": "under simulated microgravity"
+        },
+        {
+          "subject": "One prominent effect (of microgravity)",
+          "relation": "is",
+          "object": "the inhibition of cell proliferation"
+        },
+        {
+          "subject": "Inhibition of cell proliferation",
+          "relation": "delays",
+          "object": "the repair of damaged blood vessels"
+        },
+        {
+          "subject": "Reduced production of interleukin-6 (IL-6)",
+          "relation": "compromises",
+          "object": "immune functionality and vascular repair capacity"
+        },
+        {
+          "subject": "Interleukin-6 (IL-6)",
+          "relation": "is",
+          "object": "a cytokine crucial for the inflammatory response"
+        },
+        {
+          "subject": "Microgravity",
+          "relation": "stimulates",
+          "object": "the synthesis of nitric oxide"
+        },
+        {
+          "subject": "Nitric oxide",
+          "relation": "is",
+          "object": "a critical mediator for blood vessel dilation and angiogenesis"
+        },
+        {
+          "subject": "This effect",
+          "relation": "is linked to",
+          "object": "the activation of endothelial nitric oxide synthase (eNOS)"
+        },
+        {
+          "subject": "Nitric oxide",
+          "relation": "promotes",
+          "object": "vascular adaptation"
+        },
+        {
+          "subject": "Its dysregulation (of nitric oxide)",
+          "relation": "can lead to",
+          "object": "pathological states"
+        },
+        {
+          "subject": "Research on simulated microgravity",
+          "relation": "has revealed",
+          "object": "significant effects on endothelial cell integrity and function"
+        },
+        {
+          "subject": "Human umbilical vein endothelial cells",
+          "relation": "were exposed to",
+          "object": "simulated microgravity for up to 72 h using an RPM"
+        },
+        {
+          "subject": "Human umbilical vein endothelial cells",
+          "relation": "are",
+          "object": "essential regulators of cardiovascular homeostasis"
+        },
+        {
+          "subject": "An RPM",
+          "relation": "continuously rotates to",
+          "object": "nullify Earth’s gravitational vector"
+        },
+        {
+          "subject": "Notable changes in cellular biomechanical properties",
+          "relation": "were observed",
+          "object": "after 24 h (of simulated microgravity)"
+        },
+        {
+          "subject": "Changes in cellular biomechanical properties",
+          "relation": "include",
+          "object": "a marked reduction in cell stiffness (Young’s modulus) and viscosity"
+        },
+        {
+          "subject": "Cellular elasticity",
+          "relation": "decreased by",
+          "object": "approximately 30%"
+        },
+        {
+          "subject": "Cellular elasticity",
+          "relation": "reached",
+          "object": "critical levels with a 75% reduction after 72 h"
+        },
+        {
+          "subject": "This loss of rigidity",
+          "relation": "makes",
+          "object": "endothelial cells more vulnerable to external hemodynamic stress"
+        },
+        {
+          "subject": "This loss of rigidity",
+          "relation": "potentially impairs",
+          "object": "vascular integrity"
+        },
+        {
+          "subject": "This loss of rigidity",
+          "relation": "increases",
+          "object": "the risk of endothelial dysfunction"
+        },
+        {
+          "subject": "Endothelial cells",
+          "relation": "exhibited",
+          "object": "morphological changes under simulated microgravity conditions"
+        },
+        {
+          "subject": "Cells (endothelial)",
+          "relation": "adopted",
+          "object": "a distinctly rounded phenotype after 24 h"
+        },
+        {
+          "subject": "The increase in circularity",
+          "relation": "indicates",
+          "object": "significant cytoskeletal reorganization"
+        },
+        {
+          "subject": "Significant cytoskeletal reorganization",
+          "relation": "could affect",
+          "object": "vascular permeability"
+        },
+        {
+          "subject": "Significant cytoskeletal reorganization",
+          "relation": "could affect",
+          "object": "the cells’ ability to respond to mechanical stress over time"
+        },
+        {
+          "subject": "These morphological alterations",
+          "relation": "were associated with",
+          "object": "substantial reductions in key cytoskeletal components"
+        },
+        {
+          "subject": "Western blot analysis",
+          "relation": "revealed",
+          "object": "a 65% reduction in actin filament levels"
+        },
+        {
+          "subject": "Western blot analysis",
+          "relation": "revealed",
+          "object": "a 26% reduction in Î²-tubulin"
+        },
+        {
+          "subject": "Î²-tubulin",
+          "relation": "is",
+          "object": "a protein critical for microtubule integrity"
+        },
+        {
+          "subject": "Immunofluorescence",
+          "relation": "confirmed",
+          "object": "these findings"
+        },
+        {
+          "subject": "Immunofluorescence",
+          "relation": "showed",
+          "object": "discontinuities in cortical actin filaments and abnormal redistribution of microtubules"
+        },
+        {
+          "subject": "These results",
+          "relation": "highlight",
+          "object": "impaired structural integrity"
+        },
+        {
+          "subject": "These results",
+          "relation": "suggest that endothelial cells may have",
+          "object": "a compromised ability to respond to biomechanical stimuli"
+        },
+        {
+          "subject": "Endothelial cells exposed to microgravity",
+          "relation": "form",
+          "object": "three-dimensional spheroids"
+        },
+        {
+          "subject": "Three-dimensional spheroids",
+          "relation": "closely mimic",
+          "object": "in vivo blood vessel structures"
+        },
+        {
+          "subject": "These 3D models",
+          "relation": "are",
+          "object": "invaluable for studying microgravity-induced changes in endothelial function"
+        },
+        {
+          "subject": "3D models",
+          "relation": "enable",
+          "object": "more physiologically relevant investigations compared to traditional 2D cultures"
+        },
+        {
+          "subject": "These findings",
+          "relation": "reveal that microgravity disrupts",
+          "object": "endothelial physiology"
+        },
+        {
+          "subject": "Microgravity",
+          "relation": "influences",
+          "object": "cell proliferation"
+        },
+        {
+          "subject": "Microgravity",
+          "relation": "influences",
+          "object": "inflammatory responses"
+        },
+        {
+          "subject": "Microgravity",
+          "relation": "influences",
+          "object": "vascular regulation"
+        },
+        {
+          "subject": "These insights",
+          "relation": "have implications for",
+          "object": "diseases such as cancer, atherosclerosis, and other circulatory disorders"
+        },
+        {
+          "subject": "These insights",
+          "relation": "underscore",
+          "object": "the need for further research to mitigate vascular risks during space missions"
+        },
+        {
+          "subject": "These insights",
+          "relation": "underscore",
+          "object": "the need to explore potential therapeutic applications on Earth"
+        },
+         {
+          "subject": "Microgravity",
+          "relation": "profoundly impacts",
+          "object": "the metabolism and functionality of various organs, particularly the liver"
+        },
+        {
+          "subject": "Prolonged exposure to microgravity",
+          "relation": "induces",
+          "object": "significant metabolic alterations in rhesus macaques"
+        },
+        {
+          "subject": "These alterations",
+          "relation": "are similar to those observed in",
+          "object": "rodents"
+        },
+        {
+          "subject": "Metabolic alterations",
+          "relation": "include",
+          "object": "lipid accumulation and infiltration of inflammatory cells in the liver"
+        },
+        {
+          "subject": "These alterations",
+          "relation": "reflect",
+          "object": "the disruption of hepatic metabolic homeostasis"
+        },
+        {
+          "subject": "Findings",
+          "relation": "underscore",
+          "object": "the importance of exploring the effects of microgravity on metabolic regulation in animal models and future human studies"
+        },
+        {
+          "subject": "Rhesus macaques in a head-down bed rest model simulating microgravity",
+          "relation": "developed",
+          "object": "mild liver lesions, fat vacuole accumulation, and inflammatory cell infiltration"
+        },
+        {
+          "subject": "These hepatic changes",
+          "relation": "were accompanied by",
+          "object": "a marked increase in plasma levels of angiopoietin-like 3 (ANGPTL3)"
+        },
+        {
+          "subject": "ANGPTL3",
+          "relation": "is",
+          "object": "a key biomarker associated with metabolic disorders and lipid dysregulation"
+        },
+        {
+          "subject": "These results",
+          "relation": "suggest that microgravity may induce",
+          "object": "hepatic lipotoxicity"
+        },
+        {
+          "subject": "Hepatic lipotoxicity",
+          "relation": "was previously documented in",
+          "object": "rodents"
+        },
+        {
+          "subject": "Hepatic lipotoxicity",
+          "relation": "requires",
+          "object": "further investigation in primates and humans to better understand its clinical relevance"
+        },
+        {
+          "subject": "Transcriptomic analyses of liver samples from macaques exposed to microgravity",
+          "relation": "revealed",
+          "object": "overexpression of genes associated with lipid metabolism"
+        },
+        {
+          "subject": "Transcriptomic analyses of liver samples from macaques exposed to microgravity",
+          "relation": "revealed",
+          "object": "downregulation of genes linked to the innate immune response"
+        },
+        {
+          "subject": "These molecular changes",
+          "relation": "could impair",
+          "object": "the liver’s ability to manage metabolic stress"
+        },
+        {
+          "subject": "Managing metabolic stress",
+          "relation": "is",
+          "object": "a critical function for maintaining long-term health"
+        },
+        {
+          "subject": "Disruptions in fatty acid metabolism",
+          "relation": "were identified",
+          "object": "and potentially contribute to lipid dysregulation associated with metabolic diseases such as diabetes and obesity"
+        },
+        {
+          "subject": "The impact of microgravity on the gut microbiota",
+          "relation": "was",
+          "object": "a noteworthy finding"
+        },
+        {
+          "subject": "Gut microbiota",
+          "relation": "is",
+          "object": "a key regulator of hepatic metabolism through the gut–liver axis"
+        },
+        {
+          "subject": "Macaques subjected to the head-down bed rest model",
+          "relation": "exhibited",
+          "object": "intestinal dysbiosis, endotoxemia, and altered bile acid composition"
+        },
+        {
+          "subject": "These gut alterations",
+          "relation": "were accompanied by",
+          "object": "elevated levels of stress hormones"
+        },
+        {
+          "subject": "Elevated levels of stress hormones",
+          "relation": "suggest",
+          "object": "systemic metabolic imbalance triggered by microgravity exposure"
+        },
+        {
+          "subject": "The effects of microgravity on liver function and metabolic homeostasis",
+          "relation": "carry",
+          "object": "significant implications for space medicine"
+        },
+        {
+          "subject": "These findings",
+          "relation": "highlight",
+          "object": "the need to closely monitor liver function and the gut–liver axis during prolonged space missions to mitigate potential health risks"
+        },
+        {
+          "subject": "The metabolic changes observed in animal models",
+          "relation": "provide",
+          "object": "valuable insights into terrestrial diseases such as diabetes and nonalcoholic fatty liver disease"
+        },
+        {
+          "subject": "This knowledge",
+          "relation": "could contribute to",
+          "object": "the development of more effective treatments and innovative therapeutic strategies in regenerative medicine"
+        },
+        {
+          "subject": "Development of treatments and strategies",
+          "relation": "ultimately benefits",
+          "object": "both astronauts and the general population"
+        }
+    ]
