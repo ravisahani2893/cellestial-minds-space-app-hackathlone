@@ -17,11 +17,11 @@ Enable a new era of human space exploration! This project gathers, indexes and a
 
 ## Repo structure (high level)
 
-- `space-enginer.py` & `space-enginer.py` — core data-processing / ingestion scripts.
+- `space-enginer.py` & `fetch.py` — core data-processing / ingestion scripts.
 - `semantic-searching.py` & `summarizer.py` — builds embeddings and a FAISS index from `papers.json` / other JSON files.
 - `data/papers.json`, `data/structured_data.json`, `data/summaries.json`, `data/paper_index.faiss`,
 `data/grouped_papers.json`, `data/paper_meta.json` — Structured JSON data fetched after data processing from Unstructured data.
-- `scripts/build_kg.py`,`scripts/ontology.py` - Uses gemni to extract ontology and create triplets from data for knowldge graph creation and uses pyvis to create an inbterative html of the knowledge graphs
+- `scripts/build_kg.py`,`scripts/ontology.py` - Uses Gemni to extract Ontology and create Triplets from data for knowldge graph creation and uses pyvis to create an inbterative html of the knowledge graphs
 
 ---
 
