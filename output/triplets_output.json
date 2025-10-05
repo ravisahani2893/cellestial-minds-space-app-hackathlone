@@ -1,0 +1,782 @@
+[
+    {
+        "paper_id": 1,
+        "subject": "{ ' main_content",
+        "predicate": "occur",
+        "object": "primarily in space or in specialized environments designed to simulate this state"
+    },
+    {
+        "paper_id": 1,
+        "subject": "Microgravity , a condition characterized by minimal and almost imperceptible gravitational forces ,",
+        "predicate": "occur",
+        "object": "primarily in space or in specialized environments designed to simulate this state"
+    },
+    {
+        "paper_id": 1,
+        "subject": "microgravity",
+        "predicate": "present",
+        "object": "a unique opportunity to study how cells respond to the drastic reduction in gravityâ\\x80\\x94a fundamental factor that regulates numerous cellular processes on Earth"
+    },
+    {
+        "paper_id": 1,
+        "subject": "mechanical forces that influence cell structure and function undergo significant alterations ,",
+        "predicate": "impact",
+        "object": "cytoskeletal organization , cell adhesion , and intracellular signaling"
+    },
+    {
+        "paper_id": 1,
+        "subject": "These changes in turn",
+        "predicate": "affect",
+        "object": "critical cellular processes , including proliferation , differentiation , communication , and survival"
+    },
+    {
+        "paper_id": 1,
+        "subject": "research on microgravity",
+        "predicate": "conduct",
+        "object": "aboard space stations , such as the International Space Station"
+    },
+    {
+        "paper_id": 1,
+        "subject": "terrestrial laboratories",
+        "predicate": "adopt",
+        "object": "advanced technologies , such as rotating bioreactors , to simulate microgravity conditions"
+    },
+    {
+        "paper_id": 1,
+        "subject": "These investigations ,",
+        "predicate": "conduct",
+        "object": "both in space and on Earth"
+    },
+    {
+        "paper_id": 1,
+        "subject": "This unique environment",
+        "predicate": "disrupt",
+        "object": "key mechanisms such as mitochondrial biogenesis , liver metabolism , intestinal homeostasis , and stem cell differentiation ,"
+    },
+    {
+        "paper_id": 1,
+        "subject": "This unique environment",
+        "predicate": "disrupt",
+        "object": "with profound implications for human health"
+    },
+    {
+        "paper_id": 1,
+        "subject": "This unique environment",
+        "predicate": "disrupt",
+        "object": "particularly during prolonged space travel"
+    },
+    {
+        "paper_id": 1,
+        "subject": "Advances in understanding the effects of microgravity on stem cells , T cells , and immune function",
+        "predicate": "create",
+        "object": "new opportunities for therapeutic innovations"
+    },
+    {
+        "paper_id": 1,
+        "subject": "Microgravity",
+        "predicate": "hold",
+        "object": "significant promise for personalized medicine"
+    },
+    {
+        "paper_id": 1,
+        "subject": "Microgravity",
+        "predicate": "hold",
+        "object": "by facilitating progress in regenerative therapies , immune - based treatments"
+    },
+    {
+        "paper_id": 1,
+        "subject": "These findings",
+        "predicate": "emphasize",
+        "object": "microgravityâ\\x80\\x99s transformative potential to reshape cellular biology and its application to contemporary medical challenges , both in space and on Earth"
+    },
+    {
+        "paper_id": 1,
+        "subject": "microgravity",
+        "predicate": "impose",
+        "object": "profound and multidimensional effects on biological and physiological systems ,"
+    },
+    {
+        "paper_id": 1,
+        "subject": "The near - total absence of gravitational forces",
+        "predicate": "disrupt",
+        "object": "numerous bodily processes"
+    },
+    {
+        "paper_id": 1,
+        "subject": "Key effects",
+        "predicate": "include",
+        "object": "fluid redistribution , increased intracranial pressure , muscle atrophy , and calcium - related bone density loss"
+    },
+    {
+        "paper_id": 1,
+        "subject": "microgravity",
+        "predicate": "alter",
+        "object": "gene expression , cell signaling , and mitochondrial function ,"
+    },
+    {
+        "paper_id": 1,
+        "subject": "microgravity",
+        "predicate": "alter",
+        "object": "with significant consequences for energy production and cellular health"
+    },
+    {
+        "paper_id": 1,
+        "subject": "microgravity",
+        "predicate": "reduce",
+        "object": "T cell activity and suppresses immune responses"
+    },
+    {
+        "paper_id": 1,
+        "subject": "These effects",
+        "predicate": "highlight",
+        "object": "the necessity of mitigating immune dysfunction during space travel"
+    },
+    {
+        "paper_id": 1,
+        "subject": "studies",
+        "predicate": "document",
+        "object": "changes in the human microbiome"
+    },
+    {
+        "paper_id": 1,
+        "subject": "studies",
+        "predicate": "document",
+        "object": "with potential implications for astronaut health and nutritional strategies during prolonged missions"
+    },
+    {
+        "paper_id": 1,
+        "subject": "Microgravity research",
+        "predicate": "lead",
+        "object": "to technological and medical breakthroughs"
+    },
+    {
+        "paper_id": 1,
+        "subject": "Microgravity research",
+        "predicate": "lead",
+        "object": "with applications beyond space exploration"
+    },
+    {
+        "paper_id": 1,
+        "subject": "the study of proteins and drug crystals under microgravity",
+        "predicate": "produce",
+        "object": "purer and more stable structures"
+    },
+    {
+        "paper_id": 1,
+        "subject": "materials research in space",
+        "predicate": "contribute",
+        "object": "to the development of innovative compounds with applications in both space and terrestrial industries"
+    },
+    {
+        "paper_id": 1,
+        "subject": "These advancements",
+        "predicate": "enhance",
+        "object": "the safety and efficiency of space missions"
+    },
+    {
+        "paper_id": 1,
+        "subject": "the complex effects of prolonged exposure to",
+        "predicate": "underline",
+        "object": "the need for further research , particularly in anticipation of missions to Mars and other distant destinations"
+    },
+    {
+        "paper_id": 1,
+        "subject": "Experimental models , such as space platforms and terrestrial simulators ,",
+        "predicate": "remain",
+        "object": "indispensable tools for understanding the long - term impacts of microgravity and developing effective countermeasures"
+    },
+    {
+        "paper_id": 1,
+        "subject": "The study of microgravity",
+        "predicate": "expand",
+        "object": "our understanding of how the human body adapts to extreme environments but also drives innovations with profound implications for science , medicine , and technology"
+    },
+    {
+        "paper_id": 1,
+        "subject": "this research",
+        "predicate": "establish",
+        "object": "itself"
+    },
+    {
+        "paper_id": 1,
+        "subject": "this research",
+        "predicate": "establish",
+        "object": "as a cornerstone for advancements that extend beyond space exploration"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Responses to spaceflight",
+        "predicate": "include",
+        "object": "cardiovascular deficits , loss of bone and muscle mass , compromised immune function , chromosomal aberrations and metabolic changes"
+    },
+    {
+        "paper_id": 2,
+        "subject": "astronauts",
+        "predicate": "stay",
+        "object": "in space"
+    },
+    {
+        "paper_id": 2,
+        "subject": "astronauts",
+        "predicate": "stay",
+        "object": "for longer periods"
+    },
+    {
+        "paper_id": 2,
+        "subject": "The fluid shift",
+        "predicate": "invoke",
+        "object": "compensatory endocrine and renal mechanisms"
+    },
+    {
+        "paper_id": 2,
+        "subject": "These alterations",
+        "predicate": "diminish",
+        "object": "the capability of the heart"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Gravitational unloading in space",
+        "predicate": "contribute",
+        "object": "to cardiovascular deconditioning"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Gravitational unloading in space",
+        "predicate": "contribute",
+        "object": "despite vigorous on - orbit exercise programs implemented on the International Space Station ( ISS )"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Both spaceflight and head - down - tilt bed rest , a ground - based model for human spaceflight ,",
+        "predicate": "cause",
+        "object": "reduced plasma volume"
+    },
+    {
+        "paper_id": 2,
+        "subject": "A reduction in myocardial interstitial fluid",
+        "predicate": "contribute",
+        "object": "to lower myocardial mass"
+    },
+    {
+        "paper_id": 2,
+        "subject": "A reduction in myocardial interstitial fluid",
+        "predicate": "contribute",
+        "object": "following microgravity exposure"
+    },
+    {
+        "paper_id": 2,
+        "subject": "spaceflight for one week",
+        "predicate": "affect",
+        "object": "cardiac mass"
+    },
+    {
+        "paper_id": 2,
+        "subject": "long term habitation in space",
+        "predicate": "expose",
+        "object": "astronauts"
+    },
+    {
+        "paper_id": 2,
+        "subject": "long term habitation in space",
+        "predicate": "expose",
+        "object": "to low doses of ionizing radiation , which may contribute to both cardiac and vascular changes in oxidative pathways leading to tissue dysfunction"
+    },
+    {
+        "paper_id": 2,
+        "subject": "spaceflight",
+        "predicate": "cause",
+        "object": "substantial changes in expression of genes and biomarkers related to metabolic and oxidative stress pathways in various tissues of both astronauts and animals"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Activation of cell cycle arrest and apoptosis signal transduction pathways",
+        "predicate": "be",
+        "object": "major stress responses important for defending against many physiological and environmental challenges , including tissue oxidative stress"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Spaceflight",
+        "predicate": "alter",
+        "object": "expression of various cell cycle arrest and apoptosis regulatory genes including CDKN1A ( also known as P21 )"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Spaceflight",
+        "predicate": "alter",
+        "object": "a cyclin dependent kinase inhibitor that mediates cell cycle arrest via cyclin interactions and apoptosis via TRP53"
+    },
+    {
+        "paper_id": 2,
+        "subject": "CDKN1A / P21",
+        "predicate": "be",
+        "object": "a negative regulator of tissue regeneration in mammals"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Spaceflight",
+        "predicate": "elevate",
+        "object": "Cdkn1a expression in bone tissue , liver and kidney as well as cultured cells"
+    },
+    {
+        "paper_id": 2,
+        "subject": "we",
+        "predicate": "use",
+        "object": "thematic PCR arrays"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Our findings",
+        "predicate": "provide",
+        "object": "new insight"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Our findings",
+        "predicate": "provide",
+        "object": "into how the heart responds at the molecular level to the novel environment of space"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Spaceflight experiments using rodents",
+        "predicate": "present",
+        "object": "unique practical challenges"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Spaceflight experiments using rodents",
+        "predicate": "present",
+        "object": "though similar benefits to rodent studies on Earth"
+    },
+    {
+        "paper_id": 2,
+        "subject": "numerous scientific reports from these mice",
+        "predicate": "describe",
+        "object": "related results obtained studying other organ systems ( e.g. ,"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Short duration ( 6 days ) spaceflight",
+        "predicate": "upregulate",
+        "object": "activity and mRNA expression of the mitochondrial enzyme"
+    },
+    {
+        "paper_id": 2,
+        "subject": "lifetime exposure of Drosophila to microgravity",
+        "predicate": "lead",
+        "object": "to diminished cardiac size , cardiac dysfunction ,"
+    },
+    {
+        "paper_id": 2,
+        "subject": "spaceflight",
+        "predicate": "cause",
+        "object": "cardiac progenitor cells in culture"
+    },
+    {
+        "paper_id": 2,
+        "subject": "RT - PCR analysis for Nfe2l2",
+        "predicate": "reveal",
+        "object": "lower levels in FLT mice than GRD"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Nfe2l2",
+        "predicate": "be",
+        "object": "a master transcriptional regulator for oxidative stress response genes"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Other tissues",
+        "predicate": "display",
+        "object": "reduced Nfe2l2 expression levels in similar spaceflight experiments entailing tissue recovery"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Other tissues",
+        "predicate": "display",
+        "object": "after landing"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Nfe2l2 - deficient mice",
+        "predicate": "protect",
+        "object": "from spaceflight - induced oxidative stress - related genes and changes in body weight"
+    },
+    {
+        "paper_id": 2,
+        "subject": "NOX1",
+        "predicate": "belong",
+        "object": "to the NADPH"
+    },
+    {
+        "paper_id": 2,
+        "subject": "NOX1",
+        "predicate": "utilize",
+        "object": "NADPH"
+    },
+    {
+        "paper_id": 2,
+        "subject": "NOX1",
+        "predicate": "utilize",
+        "object": "as an electron donor"
+    },
+    {
+        "paper_id": 2,
+        "subject": "increased expression of Nox1",
+        "predicate": "cause",
+        "object": "an increase in the formation of hydrogen peroxide and other reactive oxygen species ( ROS )"
+    },
+    {
+        "paper_id": 2,
+        "subject": "NADPH oxidases",
+        "predicate": "be",
+        "object": "major sources of ROS in the vascular system"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Several recent studies using ground - based models to simulate weightlessness show that hindlimb unloading causes cardiac atrophy",
+        "predicate": "reduce",
+        "object": "cardiomyocyte size and cardiac dysfunction"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Inhibition of NOX1 by apocynin ( a NADPH oxidase inhibitor )",
+        "predicate": "reduce",
+        "object": "oxidative stress markers"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Inhibition of NOX1 by apocynin ( a NADPH oxidase inhibitor )",
+        "predicate": "reduce",
+        "object": "in the heart"
+    },
+    {
+        "paper_id": 2,
+        "subject": "our results",
+        "predicate": "support",
+        "object": "the hypothesis that increased expression of Nox1 during spaceflight contributes to oxidative stress and myocardial abnormalities"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Oxidative stress PCR array results",
+        "predicate": "show",
+        "object": "lower expression of Ptgs2"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Oxidative stress PCR array results",
+        "predicate": "show",
+        "object": "by 3.4 - fold"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Oxidative stress PCR array results",
+        "predicate": "show",
+        "object": "in FLT samples"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Oxidative stress PCR array results",
+        "predicate": "show",
+        "object": "compared to GRD"
+    },
+    {
+        "paper_id": 2,
+        "subject": "PTGS2 , also known as Cycloxygenase 2 ( COX2 ) ,",
+        "predicate": "be",
+        "object": "the key , inducible enzyme in prostaglandin biosynthesis"
+    },
+    {
+        "paper_id": 2,
+        "subject": "lower Ptgs2 expression",
+        "predicate": "lead",
+        "object": "to inefficient removal of hydrogen peroxide , accumulation of ROS and oxidative damage"
+    },
+    {
+        "paper_id": 2,
+        "subject": "decreases",
+        "predicate": "exercise",
+        "object": "tolerance"
+    },
+    {
+        "paper_id": 2,
+        "subject": "the prostaglandin pathway",
+        "predicate": "play",
+        "object": "an important role in mechanical signaling"
+    },
+    {
+        "paper_id": 2,
+        "subject": "spaceflight",
+        "predicate": "prevent",
+        "object": "induction of Ptgs2 expression , which is avoided by on - orbit centrifugation to replace the gravity vector ,"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Inhibition of PTGS2",
+        "predicate": "impairs",
+        "object": "recovery of skeletal muscle and bone from hindlimb unloading"
+    },
+    {
+        "paper_id": 2,
+        "subject": "regulation of the prostaglandin pathway by spaceflight via changes in Ptgs2 expression",
+        "predicate": "contribute",
+        "object": "to both oxidative stress and subsequent recovery on Earth"
+    },
+    {
+        "paper_id": 2,
+        "subject": "TXNIP",
+        "predicate": "be",
+        "object": "a negative regulator of thioredoxins ( TRXs ) , which are potent antioxidants"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Fancc codes for an antioxidant and its downregulation",
+        "predicate": "cause",
+        "object": "sensitivity to oxidative stress - mediated damage to tissue"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Our results",
+        "predicate": "indicate",
+        "object": "moderate changes in several antioxidant genes ( Sod1 , Cat , Prdx6 , Gsr , Tpo , Txnrd3 , Slc41a3 )"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Cell cycle progression in eukaryotes",
+        "predicate": "regulate",
+        "object": "at various checkpoints by the action of specific cyclin dependent kinases ( CDKs )"
+    },
+    {
+        "paper_id": 2,
+        "subject": "expression levels of genes involved in cell cycle regulation , inflammation , DNA damage repair and apoptosis",
+        "predicate": "analyze",
+        "object": "in hearts"
+    },
+    {
+        "paper_id": 2,
+        "subject": "The p53",
+        "predicate": "include",
+        "object": "24 genes involved in cell cycle regulation"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Signaling PCR array",
+        "predicate": "include",
+        "object": "24 genes involved in cell cycle regulation"
+    },
+    {
+        "paper_id": 2,
+        "subject": "We",
+        "predicate": "find",
+        "object": "hearts"
+    },
+    {
+        "paper_id": 2,
+        "subject": "We",
+        "predicate": "find",
+        "object": "compared to GRD , consistent with reports for other tissues including liver , kidney , bone and muscle"
+    },
+    {
+        "paper_id": 2,
+        "subject": "CDKN1A ( also known as P21 )",
+        "predicate": "be",
+        "object": "a potent CDK inhibitor and inhibits cell cycle progression at the G1 phase"
+    },
+    {
+        "paper_id": 2,
+        "subject": "CDKN1A ( also known as P21 )",
+        "predicate": "be",
+        "object": "by inhibiting the activity of CDK2 or CDK4"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Increases in p21 levels in bone from mice in this spaceflight experiment spaceflight",
+        "predicate": "associate",
+        "object": "with proliferative arrest in cultured osteoprogenitors"
+    },
+    {
+        "paper_id": 2,
+        "subject": "the adult mammalian heart itself",
+        "predicate": "limit",
+        "object": "regenerative ability"
+    },
+    {
+        "paper_id": 2,
+        "subject": "the elevation in p21 caused by spaceflight",
+        "predicate": "contribute",
+        "object": "to cardiomyopathies"
+    },
+    {
+        "paper_id": 2,
+        "subject": "the elevation in p21 caused by spaceflight",
+        "predicate": "contribute",
+        "object": "via other cellular processes such as DNA repair , autophagy and senescence"
+    },
+    {
+        "paper_id": 2,
+        "subject": "p21 elevation",
+        "predicate": "interfere",
+        "object": "with cardiomyocyte binucleation , an important heart growth mechanism during post - natal development"
+    },
+    {
+        "paper_id": 2,
+        "subject": "PTTG1",
+        "predicate": "regulate",
+        "object": "the cell cycle"
+    },
+    {
+        "paper_id": 2,
+        "subject": "PTTG1",
+        "predicate": "regulate",
+        "object": "by inducing cyclin D3 and repressing p21 expression"
+    },
+    {
+        "paper_id": 2,
+        "subject": "( Pituitary tumor - transforming gene 1 )",
+        "predicate": "regulate",
+        "object": "the cell cycle"
+    },
+    {
+        "paper_id": 2,
+        "subject": "( Pituitary tumor - transforming gene 1 )",
+        "predicate": "regulate",
+        "object": "by inducing cyclin D3 and repressing p21 expression"
+    },
+    {
+        "paper_id": 2,
+        "subject": "a decrease in Pttg1 expression ( 2.4 - fold ) observed in FLT samples",
+        "predicate": "contribute",
+        "object": "to the observed increase in expression of p21 in FLT samples"
+    },
+    {
+        "paper_id": 2,
+        "subject": "cyclins such as Cdk1 and Cdk4",
+        "predicate": "downregulate",
+        "object": "in FLT samples"
+    },
+    {
+        "paper_id": 2,
+        "subject": "this",
+        "predicate": "suggest",
+        "object": " Apoptosis and DNA Damage Repair - Related Gene Expression in Spaceflight Hearts ' : ' There were no significant changes in apoptosis - related genes such as p53 , Bax , Bcl2 , Casp2 or Casp9 ( Supplementary Table S2 )"
+    },
+    {
+        "paper_id": 2,
+        "subject": "DNA damage repair genes such as Atr , Xrcc5 , Ercc1 and Apex1",
+        "predicate": "alter",
+        "object": "in spaceflight ( 1.1-"
+    },
+    {
+        "paper_id": 2,
+        "subject": "DNA damage repair genes such as Atr , Xrcc5 , Ercc1 and Apex1",
+        "predicate": "alter",
+        "object": "to 1.3 - fold"
+    },
+    {
+        "paper_id": 2,
+        "subject": "we",
+        "predicate": "rule",
+        "object": "the possibility that spaceflight activates DNA damage and apoptosis pathways in a smaller sub - population of cell types within the heart during spaceflight , as shown previously for exposure to low dose , heavy ion radiation ( 16O , 600 MeV / n ) simulating space radiation"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Evidence supporting the possibility that spaceflight activates DNA damage pathways and/or apoptosis has been reported for tissues other than heart , including the thymus and the eye , and multi - omics analyses reveal increased levels of DNA damage markers in urine and blood from astronauts . ' , ' Inflammatory Pathway Gene Expression in Spaceflight Heart ' : ' Inflammatory response genes , such as Tnf ( tumor necrosis factor ) , Tnfrsf10b ( Tnf receptor superfamily , member 10 ) and Traf1 ( Tnf receptor - associated factor )",
+        "predicate": "downregulate",
+        "object": "in FLT samples"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Evidence supporting the possibility that spaceflight activates DNA damage pathways and/or apoptosis has been reported for tissues other than heart , including the thymus and the eye , and multi - omics analyses reveal increased levels of DNA damage markers in urine and blood from astronauts . ' , ' Inflammatory Pathway Gene Expression in Spaceflight Heart ' : ' Inflammatory response genes , such as Tnf ( tumor necrosis factor ) , Tnfrsf10b ( Tnf receptor superfamily , member 10 ) and Traf1 ( Tnf receptor - associated factor )",
+        "predicate": "downregulate",
+        "object": "compared to GRD controls"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Tnf",
+        "predicate": "be",
+        "object": "a multifunctional pro - inflammatory cytokine , which regulates a wide variety of biological processes such as inflammation , proliferation , differentiation , apoptosis and cytotoxicity"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Space",
+        "predicate": "be",
+        "object": "a hazardous environment and proper immune functioning"
+    },
+    {
+        "paper_id": 2,
+        "subject": "The decreased expression of Tnf , Tnfrsf10b and Traf1",
+        "predicate": "observe",
+        "object": "in our study"
+    },
+    {
+        "paper_id": 2,
+        "subject": "human T cell cultures on the International Space Station ( ISS )",
+        "predicate": "show",
+        "object": "a 15 - fold decrement in expression of Tnf in T cells and"
+    },
+    {
+        "paper_id": 2,
+        "subject": "human T cell cultures on the International Space Station ( ISS )",
+        "predicate": "show",
+        "object": "its downstream effectors in microgravity"
+    },
+    {
+        "paper_id": 2,
+        "subject": "these findings",
+        "predicate": "implicate",
+        "object": "a biomechanical , gravity - dependent mechanism for regulating Tnf - related pathways"
+    },
+    {
+        "paper_id": 2,
+        "subject": "a subset of the DEGs resulting from spaceflight",
+        "predicate": "associate",
+        "object": "with cardiovascular pathologies such as atherosclerosis , cardiovascular decompensation , hypertensive disease and myocardial infarction"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Cardiovascular decompensation and volumetric changes in blood flow",
+        "predicate": "be",
+        "object": "during flight"
+    },
+    {
+        "paper_id": 2,
+        "subject": "mean arterial pressures",
+        "predicate": "change",
+        "object": "during spaceflight"
+    },
+    {
+        "paper_id": 2,
+        "subject": "cardiac output and stroke volume",
+        "predicate": "increase",
+        "object": "in flight"
+    },
+    {
+        "paper_id": 2,
+        "subject": "cardiac output and stroke volume",
+        "predicate": "increase",
+        "object": "compared to the seated position on Earth ( although comparable to the supine position on Earth )"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Factors related to experimental protocol also important to consider when interpreting gene expression findings from this experiment",
+        "predicate": "include",
+        "object": "the fixed duration of the mission ( 15 days )"
+    },
+    {
+        "paper_id": 2,
+        "subject": "Factors related to experimental protocol also important to consider when interpreting gene expression findings from this experiment",
+        "predicate": "include",
+        "object": "sample recovery"
+    },
+    {
+        "paper_id": 2,
+        "subject": "observed changes in gene expression",
+        "predicate": "reflect",
+        "object": "changes observed during habitation in microgravity"
+    },
+    {
+        "paper_id": 2,
+        "subject": "future experiments",
+        "predicate": "focus",
+        "object": "on spatial transcriptomics"
+    }
+]
