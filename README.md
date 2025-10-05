@@ -35,12 +35,11 @@ The code in this repository uses (but may not be limited to) the following Pytho
 - `tqdm`
 - `pandas`
 - `streamlit` (UI)
-- `transformers` (training allen-ai/led-large, tokenizers)
+- `transformers` (training allenai/led-large, tokenizers)
 - `datasets` (Hugging Face datasets utilities)
 - `torch` (PyTorch)
 - `scikit-learn` (`sklearn`, for train/test splits etc.)
 - `evaluate` (Hugging Face evaluation tools)
-- `flask` (if used for API wrappers)
 
 > Note: exact imports can be found in each script. If you add or remove libraries while developing, update `requirements.txt` accordingly.
 
